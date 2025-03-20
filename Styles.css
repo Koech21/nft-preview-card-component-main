@@ -1,0 +1,52 @@
+Body{
+    background-color:hsl(217, 54%, 11%) ;
+}
+.full{
+    background-color:hsl(216, 50%, 16%);
+    width: 20%;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+.image{
+    width: 100%;
+}
+.image img{
+    width: 100%;
+    border-radius: 10px;
+}
+.image img:hover{
+    cursor: pointer;
+}
+h1{
+    color: white;
+}
+h1:hover{
+    cursor: pointer;
+    color:hsl(178, 100%, 50%) ;
+}
+image img:hover{
+    cursor: pointer;
+}
+p{
+    color: hsl(215, 51%, 70%);
+}
+#Nib{
+    color: hsl(178, 100%, 50%);
+    font-weight: 900;
+}
+.etherium{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.wimage{
+    width:20%;
+}
+.wimage img{
+    width: 100%;
+    border-radius: 10px;
+}
+.wyvern{
+    display: flex;
+}
